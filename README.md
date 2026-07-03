@@ -28,6 +28,12 @@ The objective is to discover patterns that explain how market sentiment affects 
 - Event
 - Start Position
 
+The datasets are not included in this repository because of GitHub file size limitations.
+
+Download them from:
+
+- Historical Data: [<Google Drive link>](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+- Fear & Greed Index: [<Google Drive link>](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
 ---
 
 ## Project Workflow
@@ -100,14 +106,6 @@ Run
 ```
 analysis.ipynb
 ```
-
-or
-
-```
-python analysis.py
-```
-
----
 
 ## Author
 
